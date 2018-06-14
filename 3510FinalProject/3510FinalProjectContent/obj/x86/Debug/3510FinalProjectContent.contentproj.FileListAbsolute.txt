@@ -1,0 +1,4 @@
+D:\Projetos\XNAFinalProject\3510FinalProject\3510FinalProject\3510FinalProjectContent\obj\x86\Debug\3510FinalProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\3510FinalProject\3510FinalProjectContent\obj\x86\Debug\3510FinalProjectContent.contentprojResolveAssemblyReference.cache
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\3510FinalProject\3510FinalProjectContent\obj\x86\Debug\3510FinalProjectContent.contentprojResolveAssemblyReference.cache
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\3510FinalProject\3510FinalProjectContent\obj\x86\Debug\3510FinalProjectContent.contentprojResolveAssemblyReference.cache

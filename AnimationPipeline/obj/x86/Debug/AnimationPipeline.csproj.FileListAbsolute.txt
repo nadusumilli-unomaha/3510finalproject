@@ -1,0 +1,77 @@
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step5 solution\AnimationSteps\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step6 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Classes\CSE 473\step7 solution\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Desktop\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\cbowen\Documents\Projects\BetterSkinnedSample\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\Rafael\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\Rafael\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\Rafael\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\Rafael\Downloads\BetterSkinned\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\Rafael\Downloads\BetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\BetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\Rafael\Downloads\BetterSkinned\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+D:\Projetos\XNAFinalProject\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+D:\Projetos\XNAFinalProject\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+D:\Projetos\XNAFinalProject\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+D:\Projetos\XNAFinalProject\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+D:\Projetos\XNAFinalProject\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+D:\Projetos\XNAFinalProject\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+D:\Projetos\XNAFinalProject\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\pavani\Desktop\nikky\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+D:\Studies\Studies\fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.dll
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\bin\x86\Debug\XnaAux.pdb
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+F:\studies\University Classes\Fall 2015\Rafasancon-3510finalproject-aedb6f1d56ba\3510FinalProject\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
